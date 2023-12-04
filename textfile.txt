@@ -1,3 +1,5 @@
 this is a text file
 
-this is a new line 
+this is a new line
+
+another new line 
